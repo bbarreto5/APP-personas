@@ -27,6 +27,8 @@ public class registrar extends AppCompatActivity {
                 txtapellido.getText().toString());
         p.guardar();
         Toast.makeText(this, getResources().getString(R.string.m_1), Toast.LENGTH_SHORT).show();
-
+        txtapellido.setText("");
+        txtcedula.setText("");
+        txtnombre.setText("");
     }
 }
