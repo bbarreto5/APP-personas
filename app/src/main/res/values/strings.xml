@@ -7,4 +7,11 @@
     <string name="r_agregar">Agregar</string>
     <string name="r_eliminar">Borrar</string>
     <string name="numero">No.</string>
+    <string name="o1">Registrar</string>
+    <string name="o2">Listar</string>
+    <string name="m_1">Persona guardada correctamente.</string>
+    <string-array name="opciones">
+        <item>@string/o2</item>
+        <item>@string/o1</item>
+    </string-array>
 </resources>
